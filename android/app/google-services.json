@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "610035185602",
+    "project_id": "yammies-food-app",
+    "storage_bucket": "yammies-food-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610035185602:android:e733d224555d3f585ac85b",
+        "android_client_info": {
+          "package_name": "com.example.yummies_food_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF-f5taGkV3tlZSgk5GK9M4h1VIMqu4rM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
